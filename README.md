@@ -1,2 +1,2 @@
 # Pothole_Detection
-This code helps to find a pothole and send the location to our mail-id
+This code helps to find a pothole and send the location to our mail-id using nodeMCU GPS module and an ultra-sonic sensor
